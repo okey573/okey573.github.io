@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a}from"./app.6632c892.js";const _=JSON.parse('{"title":"cli","description":"","frontmatter":{"title":"cli","outline":[2,6]},"headers":[],"relativePath":"cli/index.md","lastUpdated":1675938755000}'),c={name:"cli/index.md"};function n(i,o,r,s,d,l){return t(),a("div")}const m=e(c,[["render",n]]);export{_ as __pageData,m as default};
