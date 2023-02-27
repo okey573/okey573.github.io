@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a,b as o}from"./app.fadd5626.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"code/index.md","lastUpdated":1677494460000}'),s={name:"code/index.md"},n=o("p",null,"一些日常工作中用到的代码",-1),c=[n];function d(r,_,i,p,l,m){return a(),t("div",null,c)}const x=e(s,[["render",d]]);export{u as __pageData,x as default};
