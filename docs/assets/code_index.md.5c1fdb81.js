@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a,b as o}from"./app.3cc47310.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"code/index.md","lastUpdated":1679993466000}'),s={name:"code/index.md"},n=o("p",null,"一些日常工作中用到的代码",-1),c=[n];function d(r,_,i,p,l,m){return t(),a("div",null,c)}const x=e(s,[["render",d]]);export{u as __pageData,x as default};
